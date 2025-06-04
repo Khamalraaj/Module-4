@@ -19,7 +19,7 @@ except IndexError:
     print("You're out of list range")
 ```
 ## Output
-![4 4](https://github.com/user-attachments/assets/1045520c-73d5-4a17-9523-29e49f2a07bc)
+![image](https://github.com/user-attachments/assets/b69f836d-ca13-4e49-b220-5d459b4725ff)
 
 ## Result
 Thus,the program has been executed successfully.
