@@ -16,8 +16,8 @@ To write a Python program that counts the number of lines in a text file `story.
 f=open("story.txt","r") 
 count=0 
 for lines in f: 
-if lines [0] not in 'T': 
-count+=1 
+  if lines[0] not in 'T': 
+    count+=1 
 print(count)
 ```
 ## Output
